@@ -10,7 +10,7 @@ namespace src;
 
 
 /**
- * Interface KeyValueStoreInterface
+ * Interfagitce KeyValueStoreInterface
  */
 interface KeyValueStoreInterface
 {
